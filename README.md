@@ -36,7 +36,7 @@ This abstraction provides a common language for understanding how modern QA syst
 
 This repository focuses on **LLM-powered Question Answering systems and methods over textual and tabular data**, two fundamental modalities that represent unstructured and structured information processing, covering representative research primarily published between **2022 and 2026**.
 
-![A taxonomy of key design objectives organized by the five-stage pipeline abstraction.](README.assets/fig-taxonomy-with-objectives.png)
+![A taxonomy of key design objectives organized by the five-stage pipeline abstraction.](./assets/fig-taxonomy-with-objectives.png)
 
 We first analyze representative LLM-powered QA systems to understand how different stages are instantiated and coordinated in practice. Building on this system-level view, we organize the literature around the major design objectives within each stage of the pipeline, as summarized in the taxonomy above. Together, these two perspectives provide a comprehensive view of both end-to-end system architectures and stage-specific research developments.
 
