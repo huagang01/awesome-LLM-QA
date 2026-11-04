@@ -147,6 +147,7 @@ We first analyze representative LLM-powered QA systems to understand how differe
 - **Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation** Zheng Yuan, Hao Chen, Zijin Hong, et al. *arXiv 2025.* [[Paper](https://dblp.org/img/paper-oa.dark.hollow.16x16.png)]
 - **Efficient One-Pass End-to-End Entity Linking for Questions** Belinda Z Li, Sewon Min, Srinivasan Iyer, et al. *EMNLP 2020.* [[Paper](https://doi.org/10.18653/v1/2020.emnlp-main.522)]
 - **ReFinED: An Efficient Zero-shot-capable Approach to End-to-End Entity Linking** Tom Ayoola, Shubhi Tyagi, Joseph Fisher, et al. *NAACL (Industry Track) 2022.* [[Paper](https://doi.org/10.18653/v1/2022.naacl-industry.24)]
+- **ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance** Sijia Yao, Pengcheng Huang, Zhenghao Liu, et al. *EMNLP 2025.* [[Paper](https://aclanthology.org/2025.emnlp-main.963/)]
 
 ---
 
@@ -345,6 +346,8 @@ We first analyze representative LLM-powered QA systems to understand how differe
 - **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** Patrick Lewis, Ethan Perez, Aleksandra Piktus, et al. *NeurIPS 2020.* [[Paper](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)]
 - **Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering** Gautier Izacard, Edouard Grave. *EACL 2021.* [[Paper](https://doi.org/10.18653/v1/2021.eacl-main.74)]
 - **Language Models That Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion** Kurt Shuster, Mojtaba Komeili, Leonard Adolphs, et al. *Findings of EMNLP 2022.* [[Paper](https://doi.org/10.18653/v1/2022.findings-emnlp.27)]
+- **ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** Pengcheng Huang, Zhenghao Liu, Yukun Yan, et al. *NeurIPS 2025.* [[Paper](https://openreview.net/forum?id=CyUq9D99vE)]
+- **SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation** Ruochang Li, Pengcheng Huang, Zhenghao Liu, et al. *arXiv 2026.* [[Paper](https://arxiv.org/abs/2606.27786)]
 
 <h4 style="color: #6c757d;">Answer Generation</h4>
 
